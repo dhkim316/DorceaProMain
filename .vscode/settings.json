@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "functional": "c",
+        "sl_pwm_init_buzzer_config.h": "c"
+    }
+}
